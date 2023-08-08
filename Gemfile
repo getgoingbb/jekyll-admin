@@ -15,3 +15,4 @@ gem "jekyll-redirect-from"
 # Site dependencies
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
+gem 'jekyll-admin', group: :jekyll_plugins
